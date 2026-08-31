@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_bg">#0A0A0C</color>
+    <color name="surface_dark">#141417</color>
+    <color name="surface2_dark">#1C1C21</color>
+    <color name="primary_red">#FF2442</color>
+    <color name="success_green">#00E676</color>
+    <color name="warning_orange">#FF9100</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_muted">#A1A1AA</color>
+    <color name="white_chip">#E2E8F0</color>
+    <color name="black_chip">#1E293B</color>
+</resources>
