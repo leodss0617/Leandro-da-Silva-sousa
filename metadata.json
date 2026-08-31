@@ -1,0 +1,6 @@
+{
+  "name": "Leandro Double IA v2.9 Coleta Persistente",
+  "description": "Analisador preditivo e coletor em tempo real para Blaze Double com Mega Troia, mapa por minutos, aprendizado contínuo e proteção contra repetições.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
